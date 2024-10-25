@@ -1,0 +1,21 @@
+{
+  "name": "vue3-press",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "next",
+    "@vuepress/theme-default": "next",
+    "sass-embedded": "^1.80.4",
+    "vue": "^3.5.12",
+    "vuepress": "next"
+  }
+}
